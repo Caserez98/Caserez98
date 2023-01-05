@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Caserez98 nice to meet you!
-- 👀 I’m interested in programming, videogames, music, arts and sports. I would like to meet new people and learning new things about programming and improve my skills.
-- 🌱 I’m currently learning Go and I have some experience with JavaScript, Python, Java and Databases.
+- Now working as Software Developer Engineer in Test. I am in love with programming and I hope to learn amazing things together!
 
 
 <!---
